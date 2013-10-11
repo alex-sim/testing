@@ -1,4 +1,4 @@
-Ini adalah sebuah cerita.
+Ini adalah sebuah cerita. Ini baris pertama.
 
 Ini paragraf kedua.
 
