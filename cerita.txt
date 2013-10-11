@@ -1,6 +1,6 @@
 Ini adalah sebuah cerita. Ini baris pertama.
 
-Ini paragraf kedua.
+Ini paragraf kedua. Tambah paragraf 2.
 
 Ini paragraf ketiga. Tambah paragraf 3.
 
