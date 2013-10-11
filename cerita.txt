@@ -2,6 +2,6 @@ Ini adalah sebuah cerita.
 
 Ini paragraf kedua.
 
-Ini paragraf ketiga.
+Ini paragraf ketiga. Tambah paragraf 3.
 
 Ini adalah paragraf keempat.
